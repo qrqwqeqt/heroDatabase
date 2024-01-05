@@ -1,0 +1,1 @@
+This Python program is a simple database for storing information about the heroes of the Dota 2 game. It uses SQLite to create and manage the database.

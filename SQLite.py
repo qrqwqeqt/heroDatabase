@@ -146,10 +146,10 @@ while True:
         updateHeroInformation(name)
 
     elif choice == '5':
-        print('Выход из программы')
+        print('Exit')
         break
 
     else:
-        print('Некорректный ввод')
+        print('Invalid value')
 
 con.close()
